@@ -24,7 +24,6 @@ Graphic Information Technology – Full-Stack Web Development
 ## 💻 Hard Skills
 - ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) HTML  
 - ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) CSS
-- Data Structures & Algorithms  
 
 ---
 
