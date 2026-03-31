@@ -11,13 +11,17 @@ Graphic Information Technology – Full-Stack Web Development
 
 ---
 
-## 💻 Skills
+## 💻 Hard Skills
 - ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) HTML  
-- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) CSS  
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) JavaScript  
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) Python  
+- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) CSS
 - Data Structures & Algorithms  
 
+---
+
+## 💻 Soft Skills
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) JavaScript  
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) Python
+  
 ---
 
 ## 🎯 Career Goals
@@ -47,7 +51,7 @@ Graphic Information Technology – Full-Stack Web Development
 ---
 
 ## 📫 Contact Me
-- Email: 2021paleevang@gmailcome  
+- Email: 2021paleevang@gmail.com  
 - Portfolio Website: [Coming Soon](https://yourwebsite.com)  
 - LinkedIn: [Your LinkedIn](www.linkedin.com/in/palee-vang-7b2651333)  
 
